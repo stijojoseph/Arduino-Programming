@@ -1,3 +1,3 @@
 # stijovalayil-gmail.com
 OTTO ROBOT CODE
-download the file and upload it your arduino ide
+download otto.ino  file and upload it your arduino ide
